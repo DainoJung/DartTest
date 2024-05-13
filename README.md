@@ -1,16 +1,9 @@
-# dart_website
+# Dart Test
 
-A new Flutter project.
+| Rive 패키지를 사용해 귀여운 다트 테스트 앱을 만들었습니다!!!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/DainoJung/DartTest/assets/117745618/f186c165-2c22-4055-895f-e5cee9f048ca
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
